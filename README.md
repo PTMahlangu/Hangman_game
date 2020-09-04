@@ -1,6 +1,6 @@
-# Problems - Hangman Loops
+In this game, the player must guess a random word chosen by the program. The player guesses a single letter, and if the guess is wrong, the player is one step closer to being hung by the neck.
 
-* Modify `hangman.py` to solve the problem as stated in [_TODO_ ref to content's problem description].
+# Problems - Hangman 
 * Use the `short_words.txt` file for the list of words to select from.
 * You can run the program using the instructions in *To Run* below.
 * You can test technical correctness by running the unit tests as in the section *To Test* below.
